@@ -1,2 +1,2 @@
 # Maria-Crafts
-My first website. It is an E Commerce website.
+My first website. 
